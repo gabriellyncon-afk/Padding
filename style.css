@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    border: 2px solid black;
+    margin: auto;
+    width: 367px;
+    height: 634px;
+    margin-top: 5px;
+}
+
+div {
+    border: 2px solid black;
+    width: 200px;
+    height: 250px;
+    padding-inline: 10px;
+    padding-block: 5px;
+}
+
+a {
+    border: 2px solid black;
+    color: blue;
+    padding: 10px;
+    display: block;
+    width: 175px;
+    text-align: center;
+
+}
+
+p {
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.p1 {
+    margin-bottom: 41px;
+}
+
+
+
+.p2 {
+    margin-top: 22px;
+}
+
+.div1 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+
+}
+
+footer {
+    border: 2px solid black;
+    margin: 10px 20px 30px 40px;
+}
